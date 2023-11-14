@@ -5,8 +5,8 @@
 using namespace std;
 int main () {
 	
-	int hour = 8;
-	cout << "There are " << hour * 60 << " minutes in " << hour << " hours.";
+   int hour = 8;
+   cout << "There are " << hour * 60 << " minutes in " << hour << " hours.";
 	
-	return 0;
+   return 0;
 }
